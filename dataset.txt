@@ -1,0 +1,24 @@
+quantas materias eu tenho?
+7
+quais aulas tenho na segunda?
+Gerência de Redes e Sistemas Embarcados
+quais aulas tenho na terça?
+Inteligência Artificial e Libras
+quais aulas tenho na quarta?
+Inteligência Artificial e Gerência de Redes
+quais aulas tenho na quinta?
+Orientação de TCC e Teoria dos Grafos
+quais aulas tenho na sexta?
+Programação Mobile e Teoria dos Grafos
+quem e o professor de gerencia de redes?
+Danilo Dionisia
+quem e o professo de sistemas embarcados?
+Eduardo Sakai
+quem e o professor de inteligencia artificial?
+Jose Matias Lemes Filho
+quem e o professor de libras?
+Katia Cirlene De Amorim Nakahodo
+quem e o professor de mobile?
+Daives Arakem Bergamasco
+quem e o professor de teoria dos grafos?
+Daives Arakem Bergamasco
